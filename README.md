@@ -4,4 +4,4 @@ Check if cratedb is still running ok, if not restart the service and report erro
 
 Add task to cronjob and check every minute
 
-* * * *  cd /yourdir && ./servicesentry
+\* \* \* \* \* cd /yourdir && ./servicesentry
